@@ -1,0 +1,140 @@
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family:'Bebas Neue', cursive;;
+	color: #000000;
+}
+h2 {
+    font-size: 3em;
+}
+body {
+	background-color: #ffffff;
+    font-family:'Bebas Neue', cursive;;
+
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: #c5ceca;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#chicken {
+	text-align: center;
+	width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+	font-weight: bold;
+	font-size: 3em;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+    font-family: 'Anton', sans-serif;
+}
+
+#beef {
+    
+	text-align: center;
+	width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+	font-weight: bold;
+	font-size: 3em;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+    font-family: 'Anton', sans-serif;
+}
+
+#sushi {
+	text-align: center;
+	width: 30%;
+	margin-left: auto;
+    margin-right: auto;
+	font-weight: bold;
+	font-size: 3em;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+    font-family: 'Anton', sans-serif;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #0679fc;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #0e141b;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 2.5em;
+  text-align: left;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
